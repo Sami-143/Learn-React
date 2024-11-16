@@ -1,0 +1,17 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "this is my mongodb project",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"No tests currently defined.\"",
+  "start": "nodemon index.js"
+},
+  "author": "Sami malik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1",
+    "nodemon": "^3.1.0"
+  }
+}
